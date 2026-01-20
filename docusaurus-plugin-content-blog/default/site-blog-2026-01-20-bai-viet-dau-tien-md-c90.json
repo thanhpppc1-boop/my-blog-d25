@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/bai-viet-dau-tien",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2026-01-20-bai-viet-dau-tien.md",
+  "source": "@site/blog/2026-01-20-bai-viet-dau-tien.md",
+  "title": "Chào mừng đến với Blog của Nguyễn Kim Thành",
+  "description": "Đây là bài viết đầu tiên của mình trên nền tảng Docusaurus. Mình là sinh viên Khoa Học Máy Tính Khóa D25.",
+  "date": "2026-01-20T00:00:00.000Z",
+  "tags": [],
+  "readingTime": 0.31,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "slug": "bai-viet-dau-tien",
+    "title": "Chào mừng đến với Blog của Nguyễn Kim Thành"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/blog/welcome"
+  }
+}
