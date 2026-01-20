@@ -5,7 +5,7 @@
  */
 export default {
   title: "Nguyễn Kim Thành",
-  tagline: "Khoa Học Máy Tính - Khóa: D25.",
+  tagline: "Khoa Học Máy Tính - D25",
   favicon: "img/favicon.ico",
   future: {
     v4: {
@@ -31,7 +31,7 @@ export default {
   url: "https://thanhpppc1-boop.github.io",
   baseUrl: "/my-blog-d25/",
   organizationName: "thanhpppc1-boop",
-  projectName: "my-blog-d25",
+  projectName: "my-blog-b25",
   onBrokenLinks: "throw",
   i18n: {
     defaultLocale: "en",
