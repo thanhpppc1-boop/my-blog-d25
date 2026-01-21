@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  title: "Nguyễn Kim Thành",
-  tagline: "Khoa Học Máy Tính - D25",
+  title: "Nguyễn KIm Thành",
+  tagline: "Khoa Học Máy Tính-D25",
   favicon: "img/favicon.ico",
   future: {
     v4: {
@@ -31,7 +31,7 @@ export default {
   url: "https://thanhpppc1-boop.github.io",
   baseUrl: "/my-blog-d25/",
   organizationName: "thanhpppc1-boop",
-  projectName: "my-blog-b25",
+  projectName: "my-blog-d25",
   onBrokenLinks: "throw",
   i18n: {
     defaultLocale: "en",
