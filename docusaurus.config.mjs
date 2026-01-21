@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  title: "My Site",
-  tagline: "Dinosaurs are cool",
+  title: "Nguyễn Kim Thành",
+  tagline: "Khoa Học Máy Tính-D25",
   favicon: "img/favicon.ico",
   future: {
     v4: {
@@ -28,10 +28,10 @@ export default {
     },
     experimental_router: "browser",
   },
-  url: "my-blog-d25.netlify.app",
-  baseUrl: "/",
-  organizationName: "facebook",
-  projectName: "docusaurus",
+  url: "https://thanhpppc1-boop.github.io",
+  baseUrl: "/my-blog-d25/",
+  organizationName: "thanhpppc1-boop",
+  projectName: "my-blog-d25",
   onBrokenLinks: "throw",
   i18n: {
     defaultLocale: "en",
